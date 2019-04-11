@@ -1,0 +1,15 @@
+{
+    "name": "wymarzonylogin/fingerprintah",
+    "type": "library",
+    "description": "Simple visualisation of fingerint of input text with pseudorandom bicolor png image",
+    "keywords": ["php","image","fingerprint","png","icon","avatar"],
+    "homepage": "http://wymarzonylog.in",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Smacznego",
+            "email": "smacznego@wymarzonylog.in",
+            "role": "Developer"
+        }
+    ]
+}
