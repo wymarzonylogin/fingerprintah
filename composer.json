@@ -11,5 +11,10 @@
             "email": "smacznego@wymarzonylog.in",
             "role": "Developer"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "WymarzonyLogin\\Fingerprintah\\": "src/"
+        }
+    }
 }
